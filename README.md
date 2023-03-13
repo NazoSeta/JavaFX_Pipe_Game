@@ -9,7 +9,7 @@ This progam teaches us the following:
 - Creating a game
 - Animations
 - Creating shapes
-- Usage of BorderPane, Hbox, Combobox, etc.
+- Usage of BorderPane, HBox, ComboBox, etc.
 - Usage of the interaction with the mouse
 - How to upload images
 - How to read from multiply files
