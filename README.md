@@ -12,6 +12,6 @@ This progam teaches us the following:
 - Usage of BorderPane, HBox, ComboBox, etc.
 - Usage of the interaction of the screen with the mouse
 - How to upload images
-- How to read from multiply files
+- How to read from multiple files
 - OOP
 - Nested loops
