@@ -10,7 +10,7 @@ This progam teaches us the following:
 - Animations
 - Creating shapes
 - Usage of BorderPane, HBox, ComboBox, etc.
-- Usage of the interaction with the mouse
+- Usage of the interaction of the screen with the mouse
 - How to upload images
 - How to read from multiply files
 - OOP
